@@ -46,6 +46,7 @@ A GraphQL API built with Node.js and MongoDB.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/github/stars/nuxt/nuxt.js.svg?logo=github&color=00C58E)
 ![Nuxt](https://img.shields.io/npm/v/nuxt.svg?logo=nuxt.js&logoColor=ffffff&color=00C58E)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
