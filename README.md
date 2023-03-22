@@ -23,7 +23,6 @@ I develop web and mobile applications with JavaScript.
 ### Others
 - **Git**
 - **GitHub**
-- **Docker**
 - **Electron.js**
 - **Nativescript**
 
@@ -46,8 +45,8 @@ A GraphQL API built with Node.js and MongoDB.
 - [Website](https://www.binodev.com/)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/npm/v/nuxt.svg?logo=nuxt.js&logoColor=ffffff&color=00C58E)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
