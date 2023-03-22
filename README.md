@@ -46,15 +46,12 @@ Feel free to connect with me via:
 - [LinkedIn](https://www.linkedin.com/in/binodev)
 - [Website](https://www.binodev.com/)
 
-## 🔥 My Skills
-
-Some of my key skills and expertise include:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/npm/v/nuxt.svg?logo=nuxt.js&logoColor=ffffff&color=00C58E)
-![NativeScript](https://img.shields.io/npm/v/nativescript.svg?logo=nativescript&logoColor=ffffff&color=3655FF)
-![Electron.js](https://img.shields.io/npm/v/electron.svg?logo=electron&logoColor=ffffff&color=47848F)
+![NuxtJS](https://img.shields.io/badge/NuxtJS-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Nativescript](https://img.shields.io/badge/Nativescript-365A8C?style=for-the-badge&logo=nativescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
